@@ -5,9 +5,9 @@ from pyrogram.types import InlineKeyboardButton,InlineKeyboardMarkup
 
 class Config(object):
         #Your telegram BOT username(without @) : get it from @BotFather
-        BOT_USERNAME = environ.get("BOT_USERNAME")
+        BOT_USERNAME = environ.get("GrandmaGertrude_bot")
         #Your telegram BOT API token : get it from @BotFather
-        BOT_TOKEN = environ.get("BOT_TOKEN")
+        BOT_TOKEN = environ.get("7198587941:AAEQ2A3krDxrEtgf2hGuNgGYICd5sQoODUg")
         #API_ID of your Telegram Account my.telegram.org/apps
         API_ID = int(environ.get("API_ID"))
         #API_HASH of your Telegram Account my.telegram.org/apps
@@ -35,7 +35,7 @@ class Config(object):
 
 class var(object):
         #Rose group start message here 
-        group_start_text = "Hey :) PM me if you have any questions on how to use me!"
+        group_start_text = "Hey! Whaddya want!"
         #Rose help menu text message here 
         help_text = """
 **Welcome to help menu**
