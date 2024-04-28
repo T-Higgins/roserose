@@ -40,10 +40,7 @@ class var(object):
         help_text = """
 **Welcome to help menu**
 
-I'm a group management bot with some useful features.
-You can choose an option below, by clicking a button.
-If you have any bugs or questions on how to use me, 
-have a look at my [Docs](https://szsupunma.gitbook.io/rose-bot/), or head to @szteambots.
+Get oudda my face!
 
 **All commands can be used with the following: / **"""
         #Rose start menu conections(split commands on start)
@@ -51,7 +48,7 @@ have a look at my [Docs](https://szsupunma.gitbook.io/rose-bot/), or head to @sz
         #Rose private start message here
         pm_start_text = """
 Hey there {},my name is {}
-An  advanced telegram Group management Bot For helpYou Protect Your Groups & Suit For All Your Needs.feel free to add me to your groups! """
+Your unfriendly neighbourhood grandma bitch """
         #Languages change text menu here 
         lang_text = "Choose Your languages"
 
